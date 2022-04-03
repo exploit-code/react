@@ -1,3 +1,0 @@
-const NOTE_ERROR_ADD_NEWS = 'NOTE_ERROR_ADD_NEWS'
-
-export default NOTE_ERROR_ADD_NEWS

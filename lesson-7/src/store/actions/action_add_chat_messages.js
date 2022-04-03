@@ -1,3 +1,0 @@
-const ADD_CHAT_MESSAGES = 'ADD_CHAT_MESSAGES'
-
-export default ADD_CHAT_MESSAGES
